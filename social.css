@@ -1,4 +1,4 @@
-.fa1 {
+#fa1 {
   padding: 20px;
   font-size: 20px;
   width: 30px;
@@ -8,112 +8,112 @@
   border-radius: 50%;
 }
 
-.fa1:hover {
+#fa1:hover {
     opacity: 0.7;
 }
 
-.fa1-facebook {
+#fa1-facebook {
   background: #3B5998;
   color: white;
 }
 
-.fa1-twitter {
+#fa1-twitter {
   background: #55ACEE;
   color: white;
 }
 
-.fa1-google {
+#fa1-google {
   background: #dd4b39;
   color: white;
 }
 
-.fa1-linkedin {
+#fa1-linkedin {
   background: #007bb5;
   color: white;
 }
 
-.fa1-youtube {
+#fa1-youtube {
   background: #bb0000;
   color: white;
 }
 
-.fa1-instagram {
+#fa1-instagram {
   background: #125688;
   color: white;
 }
 
-.fa1-pinterest {
+#fa1-pinterest {
   background: #cb2027;
   color: white;
 }
 
-.fa1-snapchat-ghost {
+#fa1-snapchat-ghost {
   background: #fffc00;
   color: white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
-.fa1-skype {
+#fa1-skype {
   background: #00aff0;
   color: white;
 }
 
-.fa1-android {
+#fa1-android {
   background: #a4c639;
   color: white;
 }
 
-.fa1-dribbble {
+#fa1-dribbble {
   background: #ea4c89;
   color: white;
 }
 
-.fa1-vimeo {
+#fa1-vimeo {
   background: #45bbff;
   color: white;
 }
 
-.fa1-tumblr {
+#fa1-tumblr {
   background: #2c4762;
   color: white;
 }
 
-.fa1-vine {
+#fa1-vine {
   background: #00b489;
   color: white;
 }
 
-.fa1-foursquare {
+#fa1-foursquare {
   background: #45bbff;
   color: white;
 }
 
-.fa1-stumbleupon {
+#fa1-stumbleupon {
   background: #eb4924;
   color: white;
 }
 
-.fa1-flickr {
+#fa1-flickr {
   background: #f40083;
   color: white;
 }
 
-.fa1-yahoo {
+#fa1-yahoo {
   background: #430297;
   color: white;
 }
 
-.fa1-soundcloud {
+#fa1-soundcloud {
   background: #ff5500;
   color: white;
 }
 
-.fa1-reddit {
+#fa1-reddit {
   background: #ff5700;
   color: white;
 }
 
-.fa1-rss {
+#fa1-rss {
   background: #ff6600;
   color: white;
 }
