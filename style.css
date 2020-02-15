@@ -27,3 +27,10 @@ button {
   padding: 12px;
 }
 
+  /* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: black;
+  color: #ddd;
+}
